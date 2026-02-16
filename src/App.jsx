@@ -1,5 +1,5 @@
 import "./App.css";
-import Main_Div from "./components/__organisms/Main_Div/main_div";
+import Main_Div from "./components/__organisms/MainDiv/mainDiv";
 
 function App() {
   return (
