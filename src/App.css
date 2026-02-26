@@ -132,6 +132,55 @@ body {
   width: 100%;
   height: 96px;
 }
+.lastbox3 {
+  max-width: 412px;
+  width: 100%;
+  height: 416px;
+  background-color: rgba(24, 30, 39, 1);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 30px;
+  border-radius: 30px;
+}
+.image_box {
+  max-width: 162px;
+  width: 100%;
+  height: 108px;
+}
+.selsect {
+  max-width: 193px;
+  width: 100%;
+  height: 80px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+}
+.orange {
+  color: orange;
+  font-size: 12px;
+}
+.bxbx {
+  width: 100%;
+  height: 71px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+}
+.thaks {
+  color: white;
+}
+
+.support {
+  font-size: 15px;
+  color: rgba(150, 159, 173, 1);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
 
 @media (max-width: 302px) {
   .last_box {
